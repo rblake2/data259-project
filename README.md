@@ -1,6 +1,4 @@
-# data259-project
-
-Topic: AI for Therapy and Counseling
+# Project: AI for Therapy and Counseling
 
 We are looking to understand the moral and ethical concerns around the use of AI chatbots for therapy and counseling from both an individual and professional use perspectives.
 
