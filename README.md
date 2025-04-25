@@ -25,3 +25,6 @@ Roland Blake
 - AI-Enhanced Depression Detection and Therapy, Analyzing the VPSYC System: https://www.researchgate.net/profile/Ali-Husnain-25/publication/388173871_AI-Enhanced_Depression_Detection_and_Therapy_Analyzing_the_VPSYC_System/links/678d010795e02f182e9fb8d0/AI-Enhanced-Depression-Detection-and-Therapy-Analyzing-the-VPSYC-System.pdf
 - Therapists’ attitudes towards the use of AI in therapeutic practice: considering the therapeutic alliance: https://www.emerald.com/insight/content/doi/10.1108/mhsi-02-2023-0020/full/html
 - Attitudes and perspectives towards the preferences for artificial intelligence in psychotherapy: https://www.sciencedirect.com/science/article/abs/pii/S0747563222000954
+- Black box algorithms in mental health apps: An ethical reflection: https://onlinelibrary.wiley.com/doi/10.1111/bioe.13215
+- Dealing with Bias in Artificial Intelligence Driven Psychotherapy Tools Among Cultural and Racial Populations: https://societyforpsychotherapy.org/dealing-with-bias-in-artificial-intelligence-driven-psychotherapy-tools-among-cultural-and-racial-populations/
+- A Call to Action on Assessing and Mitigating Bias in Artificial Intelligence Applications for Mental Health: https://pmc.ncbi.nlm.nih.gov/articles/PMC10250563/
